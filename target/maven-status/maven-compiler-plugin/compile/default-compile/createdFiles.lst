@@ -1,0 +1,7 @@
+com\auth0\samples\authapi\springbootauthupdated\user\ApplicationUserRepository.class
+com\auth0\samples\authapi\springbootauthupdated\user\UserController.class
+com\auth0\samples\authapi\springbootauthupdated\task\TaskController.class
+com\auth0\samples\authapi\springbootauthupdated\task\TaskRepository.class
+com\auth0\samples\authapi\springbootauthupdated\user\ApplicationUser.class
+com\auth0\samples\authapi\springbootauthupdated\task\Task.class
+com\auth0\samples\authapi\springbootauthupdated\SpringbootAuthUpdatedApplication.class
